@@ -1,2 +1,14 @@
 # cn-track-guide
-HTML page archive and documentation
+
+静态内容发布记录
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
